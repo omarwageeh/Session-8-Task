@@ -1,0 +1,91 @@
+:root {
+  --purple-color:#510B76;
+  --green-color:#0B760F;
+}
+
+.text-18px {
+  font-size: 18px;
+}
+
+.text-16px {
+  font-size: 16px;
+}
+
+.text-20px {
+  font-size: 20px;
+}
+
+.text-22px {
+  font-size: 22px;
+}
+
+.text-24px {
+  font-size: 24px;
+}
+
+.text-40px {
+  font-size: 40px;
+}
+
+.text-56px {
+  font-size: 56px;
+}
+
+.line-height-30px {
+  line-height: 30px;
+}
+
+.extra-padding {
+  padding-inline: 0px;
+}
+
+.extra-container {
+  padding-inline: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.color-selector {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+
+.main-color-bgr {
+  background-color: #510B76;
+}
+
+.alternate-color-bgr {
+  background-color: #0B760F;
+}
+
+.offwhite-color-bgr {
+  background-color: #FAFAFA;
+}
+
+.nav-bar .anchor-action {
+  width: 152px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 1px solid black;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #FAFAFA;
+  background-color: #dddddd;
+  box-shadow: 0 0 0 50vmax rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  color: black;
+  z-index: 3;
+}/*# sourceMappingURL=style.css.map */
